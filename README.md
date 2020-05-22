@@ -27,9 +27,6 @@ Kennsluefni og leiðbeiningar eru í verkefnageymslum sem nemendum er úthutað,
 * https://vefhonnun.github.io 
 * https://vefthroun.github.io
 
-### Samvinna og aðgangur að verkefnum
-
-Kennarar í áfanga- og kennslufélögum þurfa að vera skráðir í sama lið (Team) til að hafa aðgang að lokuðum verkefnageymslum sem aðrir kennarar hafa stofnað í félaginu. Verkefnalýsingar í kennslufélögum þurfa að vera _aðgengilegar öllum kennurum áfangans_, ef það þarf að skipta um eða breyta verkefni þá eru allir með sama verkefnið.
 
 <hr>
 
