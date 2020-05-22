@@ -1,0 +1,2 @@
+# Verkefnaskil
+Undirbúningur og verkefnaskil: 
