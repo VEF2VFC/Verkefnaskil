@@ -18,7 +18,7 @@ Kennsluefni og leiðbeiningar eru í verkefnageymslum sem nemendum er úthutað,
 ### Yfirferð verkefna
 
 * Allar leiðréttingar fara beint í geymslu nemenda í áfangafélaginu. Þar sem kennari áfangans er eigandi geymslunnar þá eru engin réttindavandamál milli hans og nemenda 
-* Til að skoða vefsíður verður kennari að taka verkefnið yfir á eigið heimasvæði (local). Sett inn breytingar og sent tilbaka (git pull/push).
+* Til að skoða vefsíður verður að taka verkefnið yfir á eigið heimasvæði (local).
 * Nemendur geta verið með eigið vefsvæði á github.io fyrir hópverkefni sem á að birta á internetinu, það verður þá að gera kröfu á að nemendur séu með gögnin sín í lokaðri (privat) geymslu og skila afurðinni í Classroom geymslu til að halda samræmi í verkefnaskilum.
 
 ### Almennt lesefni og verkefnayfirlit er birt á internetinu: 
