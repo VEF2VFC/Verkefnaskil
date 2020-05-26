@@ -27,6 +27,13 @@ Kennsluefni og leiðbeiningar eru í verkefnageymslum sem nemendum er úthutað,
 * https://vefhonnun.github.io 
 * https://vefthroun.github.io
 
+### Hugbúnaður
+
+Hér er upptalning á forritum sem kennari notar í námsskeiðinu og mælt er með að nemendur noti, þau eru öll gjaldfrjals. Nemendum er frjálst að nota önnur forrit ef þau skila sama árangri.
+
+* Vefumsjón og hýsing: [Github](https://github.com)
+* Vefritunarforrit: [Visual Studio Code](https://code.visualstudio.com/)
+* Myndvinnsluforrit: [Photopea](https://www.photopea.com/)
 
 <hr>
 
