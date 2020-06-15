@@ -13,7 +13,7 @@
 
 ### Github áfangafélag (_Github Classroom Organisation_)
 
-Kennsluefni og leiðbeiningar eru í verkefnageymslum sem nemendum er úthutað, fylgigögnin geta verið verklýsingar, verkefnadæmi ofl.  
+Leiðbeiningar og fylgigögn eru í verkefnageymslum sem nemendum er úthutað. Verkefnalýsingar eru í INNU/VEFÞ2VFC. Nemendur vinna öll verkefni sín í Classroom geymslunni.
 
 ### Yfirferð verkefna
 
