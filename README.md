@@ -37,22 +37,14 @@ Almennt lesefni og leiðbeiningar er birt á internetinu:
 
 ### Hugbúnaður
 
-Hér er upptalning á hugbúnaði og forritum sem notuð eru í áfanganum. Nemendum er frjálst að nota önnur forrit ef þau skila sama árangri.
-
+Hér er upptalning á hugbúnaði og forritum sem notuð eru í áfanganum. 
 * Vefumsjón: [Github](https://github.com)
 * Hýsing: [Heroku](https://https://heroku.com/)
 * Hýsing: [Nýskráning - Heroku](https://https://signup.heroku.com/)
-* Vefritunarforrit: [Visual Studio Code](https://code.visualstudio.com/)
+* Vefritunarforrit: [Visual Studio Code](https://code.visualstudio.com/). Nemendum er frjálst að nota önnur forrit ef þau skila sama árangri.
 
 <hr>
 
 ### Vefþróun
 
 Vefþróun er kennd í 4 áföngum á tölvubraut. Í fyrsta áfanga [VEFÞ1VG05AU](https://vefgrunnur.github.io/) er farið í grunnatriði vefsíðuhönnunar, í öðrum áfanga [VEFÞVH205BU](https://vefhonnun.github.io/) er farið í samsett skipulag vefs í vefþróunarumhverfi. Í þriðja áfanga VEF2VF05CU eru grunnatriði vefforritunar kynnt. Í fjórða áfanga VEF2VÞ05DU læra nemendur uppsetningu gagnvirkrar vefþjónustu (client/server).  Hægt er að skoða <a href="https://tskoli.github.io"> áfangayfirlit tölvubrautar hér</a> <small>(_Best er að skoða yfirlitið á tölvuskjá_)</small>.
-
-
-
-
-
-
-
