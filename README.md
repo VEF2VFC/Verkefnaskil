@@ -31,7 +31,9 @@ Kennsluefni og leiðbeiningar eru í verkefnageymslum sem nemendum er úthutað,
 
 Hér er upptalning á forritum sem kennari notar í námsskeiðinu og mælt er með að nemendur noti, þau eru öll gjaldfrjals. Nemendum er frjálst að nota önnur forrit ef þau skila sama árangri.
 
-* Vefumsjón og hýsing: [Github](https://github.com)
+* Vefumsjón: [Github](https://github.com)
+* Hýsing: [Heroku](https://https://heroku.com/)
+* Hýsing: [Nýskráning - Heroku](https://https://signup.heroku.com/)
 * Vefritunarforrit: [Visual Studio Code](https://code.visualstudio.com/)
 * Myndvinnsluforrit: [Photopea](https://www.photopea.com/)
 
