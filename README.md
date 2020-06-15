@@ -29,7 +29,7 @@ Kennsluefni og leiðbeiningar eru í verkefnageymslum sem nemendum er úthutað,
 
 ### Hugbúnaður
 
-Hér er upptalning á forritum sem kennari notar í námsskeiðinu og mælt er með að nemendur noti, þau eru öll gjaldfrjals. Nemendum er frjálst að nota önnur forrit ef þau skila sama árangri.
+Hér er upptalning á hugbúnaði og forritum sem notuð eru í áfanganum. Nemendum er frjálst að nota önnur forrit ef þau skila sama árangri.
 
 * Vefumsjón: [Github](https://github.com)
 * Hýsing: [Heroku](https://https://heroku.com/)
