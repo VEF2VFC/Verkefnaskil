@@ -1,31 +1,39 @@
-# Undirbúningur og verkefnaskil
+ Námsskipulag VEFÞ2VFC
 
 ### Skráning Github reiknings
 
-* Nemendur eiga að nefna reikning sinn með nafni sínu eða auðkenna skilmerkilega (settings) þannig að engin vafi er á því hver eigandinn er.
-* Kennari getur hafnað reikningi þar sem ekki kemur fram hver er eigandinn.
+* Við skráningu Github reiknings verður að koma **skýrt fram hver er eigandinn**. Kennari getur hafnað reikningi ef það er ekki gert
+  * Dæmi um reikning sem _verður hafnað_: **Gollum** - The Hobbit Slayer
+  * Dæmi um reikning sem er samþykktur: **gjg1801** - Guðmundur Jón Guðjónsson <br> (upphafstafir, afmælisdagur og í **Settings** er skráð fullt nafn) 
 
 ### Inna 
 
-* Verkefnageymslum (Repository's) er úthlutað (Classroom invitation) til nemenda í gegnum verkefni INNU
-* Nemandi skilar síðan tengli að sínu verkefni í INNU **strax** eftir að hann hefur opnað geymsluna, þannig er hægt að koma í veg fyrir að verkefnum sé ekki skilað í INNU og auðveldar kennara að fylgjast með framvindu verkefna og samstarf
-* Einkunn er gefin fyrir verkefni í Innu
+* Verkefnalýsingar og fylgigögn eru í Innu/Áfangi/Verkefni
+* Í fyrsta verkefni áfangans er tilvísun (_Classroom invitation_) á verkefnageymslu (_Classroom repository_)
+* **Strax** eftir að hafa opnað Github verkefnageymslu skilar nemandi tengli að sinni geymslu  í INNU, þannig  getur kennari aðstoðað nemendur beint og fylgst með framvindu verkefna. 
+* Einkunn er gefin fyrir verkefnin að loknum skilafresti sem er tiltekinn í Innu.
 
-### Github áfangafélag (_Github Classroom Organisation_)
+### Github verkefnageymsla - _Classroom repository_
 
-Leiðbeiningar og fylgigögn eru í verkefnageymslum sem nemendum er úthutað. Verkefnalýsingar eru í INNU/VEFÞ2VFC. Nemendur vinna öll verkefni sín í Classroom geymslunni.
+* Í verkefnageymslunni eru verkefnamöppur sem nemendur skila sínum verkefnalausnum í. 
+* Til að vinna skipulega í verkefnum verður að sækja verkefnageymsluna af Github með því að velja **"Clone Repository"** og vinna með gögnin staðbundið (local)
+* Síðan er verkefnum skilað með því að velja **"Git Commit"** og **"Git push"**  í viðkomandi verkefnamöppur.
+* [Allt um GIT má lesa hér](https://vefhonnun.github.io/verkstjorn/index.html)
+* Aðeins er hægt að skoða vefsíður staðbundið (local) þegar unnið er í verkefnageymslum
+* Nemendur geta verið með eigið vefsvæði á github.io fyrir hópverkefni eða til að birta sitt efni á internetinu en það er **mjög mikilvægt að nemendur vinni verkefnin sín í verkefnageymslu áfangans til að sýna fram á eigið vinnuframlag**. 
 
 ### Yfirferð verkefna
 
-* Allar leiðréttingar fara beint í geymslu nemenda í áfangafélaginu. Þar sem kennari áfangans er eigandi geymslunnar þá eru engin réttindavandamál milli hans og nemenda 
-* Til að skoða vefsíður verður að taka verkefnið yfir á eigið heimasvæði (local).
-* Nemendur geta verið með eigið vefsvæði á github.io fyrir eigin verkefni sem hægt er að birta á internetinu.
+* Kennari leiðréttir verkefni beint í verkefnageymslu nemenda. 
+* Einkunn er gefin fyrir verkefnin í Innu <br>
 
-### Almennt lesefni og verkefnayfirlit er birt á internetinu: 
+### Námsefni
 
-* https://vefgrunnur.github.io
+Almennt lesefni og leiðbeiningar er birt á internetinu: 
+
 * https://vefhonnun.github.io 
-* https://vefthroun.github.io
+
+#### Skjáfyrirlestrar (Screencast) eru í Innu/Áfangi/Efni
 
 ### Hugbúnaður
 
@@ -35,7 +43,6 @@ Hér er upptalning á hugbúnaði og forritum sem notuð eru í áfanganum. Neme
 * Hýsing: [Heroku](https://https://heroku.com/)
 * Hýsing: [Nýskráning - Heroku](https://https://signup.heroku.com/)
 * Vefritunarforrit: [Visual Studio Code](https://code.visualstudio.com/)
-* Myndvinnsluforrit: [Photopea](https://www.photopea.com/)
 
 <hr>
 
