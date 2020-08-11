@@ -31,7 +31,7 @@
 
 Almennt lesefni og leiðbeiningar er birt á internetinu: 
 
-* https://vefhonnun.github.io 
+* https://vefthroun.github.io 
 
 #### Skjáfyrirlestrar (Screencast) eru í Innu/Áfangi/Efni
 
