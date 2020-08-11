@@ -1,4 +1,4 @@
- Námsskipulag VEFÞ2VFC
+# Námsskipulag VEFÞ2VFC
 
 ### Skráning Github reiknings
 
