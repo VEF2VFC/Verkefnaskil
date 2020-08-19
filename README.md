@@ -7,7 +7,7 @@
   * Dæmi um reikning sem er samþykktur: **gjg1801** - Guðmundur Jón Guðjónsson <br> (upphafstafir, afmælisdagur og í **Settings** er skráð fullt nafn) 
   * Ef nemandi á reikning með óljósu heiti og getur ekki skipt um reikning með góðu móti, þá dugar að setja fullt nafn í  **Settings**, dæmi: **Gollum** - Guðmundur Jón Guðjónsson
   * Setjið prófílmynd sem sýnir skýrt hver eigandinn er
-  * Mynd sem verður hafnað
+  * Dæmi um mynd sem verður hafnað
 
 ![Golli](gollum_s.jpg)
 
