@@ -1,10 +1,10 @@
 # Námsskipulag VEFÞ2VFC
 
-### Inna 
+### Inna
 
 * Verkefnalýsingar og fylgigögn eru í Innu/Áfangi/Verkefni
-* Í fyrsta verkefni áfangans er tilvísun (_Classroom invitation_) á áfangageymslu (_Classroom repository_)
-* **Strax** eftir að hafa opnað Github verkefnageymslu skilar nemandi tengli að sinni geymslu  í INNU, þannig  getur kennari aðstoðað nemendur beint og fylgst með framvindu verkefna. 
+* Í fyrsta verkefni áfangans er þátttökubeiðni (_Classroom invitation_) á verkefnageymslu (_Classroom repository_)
+* **Strax** eftir að hafa opnað Github verkefnageymslu skilar nemandi tengli (_link_) að sinni geymslu í **INNU - verkefni 1 - vefslóð (URL)**. Þá getur kennari aðstoðað nemendur beint og fylgst með framvindu verkefna. 
 * Einkunn er gefin fyrir verkefnin að loknum skilafresti sem er tiltekinn í Innu.
 
 
