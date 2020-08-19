@@ -9,7 +9,7 @@
   * Setjið prófílmynd sem sýnir skýrt hver eigandinn er
   * Mynd sem verður hafnað
 
-![Golli](Gollum_s.jpg)
+![Golli](gollum_s.jpg)
 
 ### Inna 
 
