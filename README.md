@@ -38,7 +38,9 @@ Almennt lesefni og leiðbeiningar er birt á internetinu:
 
 * https://vefthroun.github.io 
 
-#### Skjáfyrirlestrar (Screencast) eru í Innu/Áfangi/Efni
+#### Skjáfyrirlestrar (Youtube) 
+
+* Github áfangageymsla (Classroom repository): https://youtu.be/PPwpF6yTX3Y
 
 ### Hugbúnaður
 
