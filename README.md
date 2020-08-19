@@ -14,23 +14,33 @@
 ### Inna 
 
 * Verkefnalýsingar og fylgigögn eru í Innu/Áfangi/Verkefni
-* Í fyrsta verkefni áfangans er tilvísun (_Classroom invitation_) á verkefnageymslu (_Classroom repository_)
+* Í fyrsta verkefni áfangans er tilvísun (_Classroom invitation_) á áfangageymslu (_Classroom repository_)
 * **Strax** eftir að hafa opnað Github verkefnageymslu skilar nemandi tengli að sinni geymslu  í INNU, þannig  getur kennari aðstoðað nemendur beint og fylgst með framvindu verkefna. 
 * Einkunn er gefin fyrir verkefnin að loknum skilafresti sem er tiltekinn í Innu.
 
-### Github verkefnageymsla - _Classroom repository_
 
-* Í verkefnageymslunni eru verkefnamöppur sem nemendur skila sínum verkefnalausnum í. 
-* Til að vinna skipulega í verkefnum verður að sækja verkefnageymsluna af Github með því að velja **"Clone Repository"** og vinna með gögnin staðbundið (local)
-* Síðan er verkefnum skilað með því að velja **"Git Commit"** og **"Git push"**  í viðkomandi verkefnamöppur.
-* [Allt um GIT má lesa hér](https://vefhonnun.github.io/verkstjorn/index.html)
-* Aðeins er hægt að skoða vefsíður staðbundið (local) þegar unnið er í verkefnageymslum
-* Nemendur geta verið með eigið vefsvæði á github.io fyrir hópverkefni eða til að birta sitt efni á internetinu en það er **mjög mikilvægt að nemendur vinni verkefnin sín í verkefnageymslu áfangans til að sýna fram á eigið vinnuframlag**. 
+### Github áfangageymsla - _Classroom repository_
+
+1. Nemendur verða að vera með Github reikning (_Github user account_)
+2. Nemendur fá  þátttökubeiðni (_invite link_) í Innu/áfangi/verkefni
+3. Áfangageymslan er aðeins aðgengileg einum nemanda (_Github user_) og kennara áfangans.
+
+* Í áfangageymslunni eru möppur sem á að skila verkefnum í
+* Þú getur búið til, breytt og eytt gögnum í áfangageymslunni en geymslan sjálf er eign Tækniskólans
+* Nemendur geta hlaðið upp verkefnum (_upload files_) beint í verkefnamöppurnar en það er skynsamlegast að nota þær lausnir sem GIT og Github bjóða upp á. _Farið verður í verkferlið strax í fyrsta verkefni_
+  * Til að vinna skipulega í verkefnum þarf að sækja áfangageymsluna af Github. Til þess þurfum við forritið [**Git Bash**](https://git-scm.com/)
+  * Við speglum áfangageymsluna **"Clone Repository"** og vinnum með gögnin í geymslunni staðbundið (local)
+  * Það er hægt að skrifa kóða beint í skjöl í Github geymslum, munið að vista skráninguna með _"Commit"_ 
+  * Aðeins er hægt að skoða vefsíður í vafra (_browser_) staðbundið (_local_)  
+  * Síðan er verkefnum skilað með því að velja **"Git Commit"** og **"Git push"**  í _Visual Studio Code_ forritinu eða _Git bash_
+  * [Allt um GIT má lesa hér](https://vefhonnun.github.io/verkstjorn/index.html)
+* Í lokaverkefninu setja nemendur upp eigið vefsvæði á **Github.io** sem er birt (_published_) á internetinu. 
+* Það er mikilvægt að nemendur vinni verkefnin sín í áfangageymslunni **til að sýna fram á eigið vinnuframlag**. 
 
 ### Yfirferð verkefna
 
-* Kennari leiðréttir verkefni beint í verkefnageymslu nemenda. 
-* Einkunn er gefin fyrir verkefnin í Innu <br>
+* Kennari leiðréttir verkefni beint í áfangageymslu nemenda. 
+* Einkunn er gefin fyrir verkefnin í Innu 
 
 ### Námsefni
 
