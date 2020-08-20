@@ -6,7 +6,8 @@
 * Í fyrstu verklýsingu áfangans er **þátttökubeiðni** (_Classroom invitation_) 
   * Þátttökubeiðnin er vefslóð (_url_) í **Athugasemdir kennara**. 
   * Afritaðu þáttökubeiðnina í vafra (_browser_) <br>  ![invitation](classroom-beidni.jpg) 
-  * Eftir að hafa ýtt á "Enter" fer af stað ferli á Github miðlinum sem býr til áfangageymsluna þína	(_Classroom repository_)
+  * Eftir að hafa ýtt á "Enter" fer af stað ferli á Github miðlinum sem býr til áfangageymsluna þína	(_Classroom repository_)<br>
+  ![you are ready to go](readytogo.jpg)
   * **Strax** eftir að hafa opnað áfangageymsluna skilar þú tengli (_link_) í **INNU - verkefni 1 - vefslóð (URL)**. 
   * Kennari hefur fullan aðgang að geymslunni og getur aðstoðað þig beint í kóðanum ef þörf er á því. 
 * Einkunn er gefin fyrir verkefnin í Innu að loknum skilafresti sem er tiltekinn í þar.
