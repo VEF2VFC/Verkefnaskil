@@ -50,8 +50,8 @@ Hér er upptalning á hugbúnaði og forritum sem notuð eru í áfanganum.
 
 * Við skráningu Github reiknings verður að koma **skýrt fram hver er eigandinn**. Kennari getur hafnað reikningi ef það er ekki gert
   * Dæmi um reikning sem _verður hafnað_: **Gollum** - The Hobbit Slayer
-  * Dæmi um reikning sem er samþykktur: **gjg1801** - Guðmundur Jón Guðjónsson <br> (upphafstafir, afmælisdagur og í **Settings** er skráð fullt nafn) 
-  * Ef nemandi á reikning með óljósu heiti og getur ekki skipt um reikning með góðu móti, þá dugar að setja fullt nafn í  **Settings**, dæmi: **Gollum** - Guðmundur Jón Guðjónsson
+  * Dæmi um reikning sem er samþykktur: **gjg1801** - Guðmundur Jón Guðjónsson <br> (upphafstafir, afmælisdagur og í **Stillingar (_Settings_)** er skráð fullt nafn) 
+  * Ef nemandi á reikning með óljósu heiti og getur ekki skipt um reikning með góðu móti, þá dugar að setja fullt nafn í  **Stillingar**, dæmi: **Gollum** - Guðmundur Jón Guðjónsson
   * Setjið prófílmynd sem sýnir skýrt hver eigandinn er
   * Dæmi um mynd sem verður hafnað <br> ![Golli](gollum_s.jpg)
 
