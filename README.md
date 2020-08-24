@@ -4,7 +4,7 @@
 
 * Verkefnalýsingar eru í Innu/Áfangi/Verkefni
 * Í fyrstu verklýsingu áfangans er **þátttökubeiðni** (_Classroom invitation_) 
-  * Þátttökubeiðnin er vefslóð (_url_) í **Athugasemdir kennara**. 
+  * Þátttökubeiðnin er vefslóð (_url_) í **Athugasemdir kennara** í Innu. (_Ekki nota urlið í myndinni_) 
   * Afritaðu þáttökubeiðnina í vafra (_browser_) <br>  ![invitation](classroom-beidni.jpg) 
   * Eftir að hafa ýtt á "Enter" fer af stað ferli á Github miðlinum sem býr til áfangageymsluna þína	(_Classroom repository_)<br>
   ![you are ready to go](readytogo.jpg)
