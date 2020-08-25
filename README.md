@@ -9,7 +9,6 @@
   * Eftir að hafa ýtt á "Enter" fer af stað ferli á Github miðlinum sem býr til áfangageymsluna þína	(_Classroom repository_)<br>
   ![you are ready to go](readytogo.jpg)
   * **Strax** eftir að hafa opnað áfangageymsluna skilar þú tengli (_link_) í **INNU - verkefni 1 - vefslóð (URL)** sem vísar á geymsluna þína. 
-  * Kennari hefur fullan aðgang að geymslunni og getur aðstoðað þig beint í kóðanum ef þörf er á því. 
 * Einkunn er gefin fyrir verkefnin í Innu að loknum skilafresti sem er tiltekinn í þar.
 
 ### Github áfangageymsla - _Classroom repository_
@@ -19,12 +18,23 @@
 * Í áfangageymslunni eru möppur sem á að skila verkefnum í
 * Þú getur búið til, breytt og eytt gögnum í áfangageymslunni en geymslan sjálf er eign Tækniskólans
 * Nemendur geta hlaðið upp verkefnum (_upload files_) beint í verkefnamöppurnar en það er skynsamlegast að nota þær lausnir sem GIT og Github bjóða upp á. 
-* Það er mikilvægt að nemendur vinni verkefnin sín í áfangageymslunni **til að sýna fram á eigið vinnuframlag**. 
+* Það er mikilvægt að nemendur vinni verkefnin sín í áfangageymslunni **til að sýna fram á eigið vinnuframlag**
+ * Kennari hefur fullan aðgang að geymslunni og getur aðstoðað þig beint í kóðanum ef þörf er á því
+
 
 ### Yfirferð verkefna
-
 * Kennari leiðréttir verkefni beint í áfangageymslu nemenda. 
 * Einkunn er gefin fyrir verkefnin í Innu 
+
+### Heroku hýsing
+
+Heroku 
+https://devcenter.heroku.com/
+
+* Til að hægt sé að stofna 
+
+
+
 
 ### Námsefni
 
