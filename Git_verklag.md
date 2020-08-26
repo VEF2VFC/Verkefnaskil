@@ -6,15 +6,14 @@ Til að vinna skipulega í verkefnum þarf að sækja áfangageymsluna af Github
   * Til að nota GIT er hægt að opna **Terminal** sem er innbyggt skipanaforrit 
   * Athugaðu hvort það sé til með því að skrifa `$ git --version `
 * Á *Windows 10* notum við forritið [**Git Bash**](https://git-scm.com/)
-  * Opnið forritið Git Bash
-  * Skráðu þig sem **&quot;--global&quot;** notanda í forritinu
 
+* Opnið forritið Git Bash / Terminal
+  * Skráðu þig sem **&quot;--global&quot;** notanda 
 ```
 $ git config --global user.name "Johndoe"
 
 $ git config --global user.email johndoe@example.com
 ```
-
 * Johndoe = þitt **"notandanafn"** á Github (_með gæsalöppum_)
 * Þitt tölvupóstfang sem þú notar á Github
 
