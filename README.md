@@ -15,9 +15,10 @@
 
 Áfangageymslan er aðeins aðgengileg einum nemanda (_Github user_) og kennara áfangans.
 
+* Skynsamlegasta leiðin til að vinna í verkefnum áfangans er að spegla (_clone_) áfangamöppuna yfir í þína tölvu
+* Sjá nánar hér: [Git stillingar og verklag](Git_verklag.md)
 * Í áfangageymslunni eru möppur sem á að skila verkefnum í
 * Þú getur búið til, breytt og eytt gögnum í áfangageymslunni en geymslan sjálf er eign Tækniskólans
-* Nemendur geta hlaðið upp verkefnum (_upload files_) beint í verkefnamöppurnar en það er skynsamlegast að nota þær lausnir sem GIT og Github bjóða upp á. 
 * Það er mikilvægt að nemendur vinni verkefnin sín í áfangageymslunni **til að sýna fram á eigið vinnuframlag**
  * Kennari hefur fullan aðgang að geymslunni og getur aðstoðað þig beint í kóðanum ef þörf er á því
 
