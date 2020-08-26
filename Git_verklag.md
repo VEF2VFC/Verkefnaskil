@@ -25,6 +25,6 @@ $ git config --global user.email johndoe@example.com
   * Aðeins er hægt að skoða vefsíður í vafra (_browser_) staðbundið (_local_)  
   * Síðan er verkefnum skilað með því að velja **"Git Commit"** og **"Git push"**  í _Visual Studio Code_ forritinu eða _Git bash_
   * Þegar yngri útgáfa skjals er í víðværri (_remote_) geymslu þá þarf að sækja það með skipuninni **"Git pull"**
-  * Ef maður er ekki viss hver staðan er þá er tjékkað að stöðunni með **"Git status"**. 
+  * Ef maður er ekki viss hver staðan er þá er tjékkað á stöðunni með **"Git status"**. 
   * [Allt um GIT má lesa hér](https://vefhonnun.github.io/verkstjorn/index.html)
   * [Uppsetning staðbundinnar "local" áfangageymslu](https://youtu.be/PPwpF6yTX3Y) Skjáfyrirlestur á Youtube
