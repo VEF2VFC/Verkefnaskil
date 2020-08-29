@@ -13,7 +13,7 @@
 11.	Veldu Git (*Source Control*) í tólastikunni
 12.	Skráðu skýringu (*commit*) í innsláttarreitinn
 13.	Smelltu á [**√**] táknið 
-14.	Veldu [**∙∙∙**] táknið, fellilisti birtist, veldu **Push** (– gluggi kemur upp, veldu *Allways*  og síðan *Yes* í öðrum glugga sem birtist.
-15.	Eftir smá bið opnaðu Github áfangageymsluna ýttu á uppfæra (**F5=refresh**) í vafranum (*browser*) og þá sérðu breytingarnar sem þú gerðir í verkefni þínu (*local*).
+14.	Veldu [**∙∙∙**] táknið, fellilisti birtist, veldu **Push** – gluggi kemur upp, veldu *Allways*  og síðan *Yes* í öðrum glugga sem birtist.
+15.	Eftir smá bið opnaðu Github áfangageymsluna ýttu á uppfæra (**F5 = refresh**) í vafranum (*browser*) og þá sérðu breytingarnar sem þú gerðir í verkefni þínu (*local*).
 
 
