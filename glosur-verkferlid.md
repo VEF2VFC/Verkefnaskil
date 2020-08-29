@@ -5,7 +5,7 @@
 3.	*Smelltu á tengilinn*
 4.	Github býr til **áfangamöppu** fyrir þig (*Classroom Assignment*)
 5.	Áfangamappan er hýst í áfangafélagi (*Classroom Organistation*)
-6.	Þú speglar (*clone*) áfangamöppunni yfir á tölvuna þína með **Git Bash**
+6.	Þú speglar (*clone*) áfangamöppuna yfir á tölvuna þína með **Git Bash**
 7.	Skráðu þig sem **–global user** í Git Bash
 8.	Opnaðu áfangamöppuna (Open folder) í **Visual Studio Code** (VSC)
 9.	Byrjaðu á 1. verkefninu, **verkefnalýsing er í Innu**
