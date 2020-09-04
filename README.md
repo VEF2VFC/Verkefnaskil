@@ -4,7 +4,7 @@
 VEF2VFC Staðvært umhverfi (local environment)
    |___	env
    |___	áfangageymslan (git)
-   |___	privat geymsla (git)
+   |___	privat geymslur (git)
 
 Github.com/nemandi (user)
 	Privat geymslur með verkefni 1,2,3 ... tengd við Heroku hýsingu
