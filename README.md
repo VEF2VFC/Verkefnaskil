@@ -1,5 +1,24 @@
 # Námsskipulag VEFÞ2VFC
 
+```
+VEF2VFC Staðvært umhverfi (local environment)
+   |___	env
+   |___	áfangageymslan (git)
+   |___	privat geymsla (git)
+
+Github.com/nemandi (user)
+	Privat geymslur með verkefni 1,2,3 ... tengd við Heroku hýsingu
+
+Github.com/VEF2VF 
+   |___ Áfangageymsla (Classroom Assignments)
+	Nemandi er í beinu samstarfi við kennara
+	Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna 
+ 
+```
+Inna - Skila vefslóð (URL) að áfangageymslu í Verkefni 1. 2. 3. ...
+
+
+
 ### Inna 
 
 * Verkefnalýsingar eru í Innu/Áfangi/Verkefni
