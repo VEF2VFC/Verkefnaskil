@@ -12,12 +12,14 @@ Github.com/nemandi (user)
 Github.com/VEF2VF 
    |___ Áfangageymsla (Classroom Assignments)
 	Nemandi er í beinu samstarfi við kennara
-	Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna 
- 
-```
+	Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
+	
 Inna - Skila vefslóð (URL) að áfangageymslu í Verkefni 1. 2. 3. ...
 
+```
 
+
+## Uppsetning 
 
 ### Inna 
 
