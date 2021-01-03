@@ -76,17 +76,6 @@ Hér er upptalning á hugbúnaði og forritum sem notuð eru í áfanganum.
 * Hýsing: [Nýskráning - Heroku](https://https://signup.heroku.com/)
 * Vefritunarforrit: [Visual Studio Code](https://code.visualstudio.com/). Nemendum er frjálst að nota önnur forrit ef þau skila sama árangri.
 
-### Skráning Github reiknings
-
-Það er viðbúið að öll námsaðstoð verði alfarið í gegnum áfangageymsluna og þá er mikilvægt að kennari geti séð hver er að senda beiðni um aðstoð (_request_) og geti ávarpað viðkomandi með nafni.  
-
-* Við skráningu Github reiknings verður að koma **skýrt fram hver er eigandinn**. Kennari getur hafnað reikningi ef það er ekki gert
-  * Dæmi um reikning sem _verður hafnað_: **Gollum** - The Hobbit Slayer
-  * Dæmi um reikning sem er samþykktur: **gjg1801** - Guðmundur Jón Guðjónsson <br> (upphafstafir, afmælisdagur og í **Stillingar (_Settings_)** er skráð fullt nafn) 
-  * Ef nemandi á reikning með óljósu heiti og getur ekki skipt um reikning með góðu móti, þá dugar að setja fullt nafn í  **Stillingar**, dæmi: **Gollum** - Guðmundur Jón Guðjónsson
-  * Setjið prófílmynd sem sýnir skýrt hver eigandinn er
-  * Dæmi um mynd sem verður hafnað <br> ![Golli](gollum_s.jpg)
-
 <hr>
 
 ### Vefþróun
