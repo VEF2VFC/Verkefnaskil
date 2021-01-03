@@ -7,7 +7,7 @@ VEF2VFC Staðvært umhverfi (local environment)
    |___	privat geymslur (git)
 
 Github.com/nemandi (user)
-	Privat geymslur með verkefni 1,2,3 ... tengd við Heroku hýsingu
+	Privat geymslur með verkefni 1,2,3 osfr.
 
 Github.com/VEF2VF 
    |___ Áfangageymsla (Classroom Assignments)
@@ -53,7 +53,7 @@ Inna - Skila vefslóð (URL) að áfangageymslu í Verkefni 1. 2. 3. ...
 Heroku 
 https://devcenter.heroku.com/
 
-* Til að hægt sé að stofna 
+* Hýsing verkefna á vefþjóni er valkvæmt.
 
 
 
