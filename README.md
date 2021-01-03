@@ -72,8 +72,6 @@ Almennt lesefni og leiðbeiningar er birt á internetinu:
 
 Hér er upptalning á hugbúnaði og forritum sem notuð eru í áfanganum. 
 * Vefumsjón: [Github](https://github.com)
-* Hýsing: [Heroku](https://https://heroku.com/)
-* Hýsing: [Nýskráning - Heroku](https://https://signup.heroku.com/)
 * Vefritunarforrit: [Visual Studio Code](https://code.visualstudio.com/). Nemendum er frjálst að nota önnur forrit ef þau skila sama árangri.
 
 <hr>
