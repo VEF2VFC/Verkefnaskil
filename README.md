@@ -6,17 +6,15 @@ Github.com/nemandi (user)
 VEF2VFC Staðvært umhverfi (local environment)
    |___	env
    |___	áfangageymslan (git)
-   |___	privat geymslur (git)
 
 Github.com/VEF2VF 
    |___ Áfangageymsla (Classroom Assignments)
 	Nemandi er í beinu samstarfi við kennara
 	Kennari fer eingöngu yfir verkefni sem skilað er í áfangageymsluna
 	
-Inna - Skila vefslóð (URL) að áfangageymslu í Verkefni 1. 2. 3. ...
+Inna - Skila vefslóð (URL) að verkefnum í áfangageymslu í Verkefni 1. 2. 3. ...
 
 ```
-
 
 ## Uppsetning 
 
@@ -53,8 +51,6 @@ Heroku
 https://devcenter.heroku.com/
 
 * Hýsing verkefna á vefþjóni er valkvæmt.
-
-
 
 
 ### Námsefni
