@@ -45,13 +45,6 @@ Inna - Skila vefslóð (URL) að verkefnum í áfangageymslu í Verkefni 1. 2. 3
 * Kennari leiðréttir verkefni beint í áfangageymslu nemenda. 
 * Einkunn er gefin fyrir verkefnin í Innu 
 
-### Heroku hýsing
-
-Heroku 
-https://devcenter.heroku.com/
-
-* Hýsing verkefna á vefþjóni er valkvæmt.
-
 
 ### Námsefni
 
